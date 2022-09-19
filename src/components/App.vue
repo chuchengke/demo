@@ -9,6 +9,8 @@
       />
       <h1>Welcome to Vue.js</h1>
       <br/>
+      <br/>
+      <br/>
       <h1>Hello World</h1>
     </div>
     <!-- <div class="bottom">
