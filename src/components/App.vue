@@ -8,13 +8,15 @@
         class="logo"
       />
       <h1>Welcome to Vue.js</h1>
+      <br/>
+      <h1>Hello World</h1>
     </div>
-    <div class="bottom">
+    <!-- <div class="bottom">
       To get started, edit <code>./src/components/App.vue</code> and save to reload.<br/>
       <span class="fade">
         Checkout <code>./README.md</code> for more usages.
       </span>
-    </div>
+    </div> -->
   </div>
 </template>
 
